@@ -1,0 +1,19 @@
+{
+  "name": "github-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "jspdf": "^2.5.1",
+    "pdfkit": "^0.13.0",
+    "request": "^2.88.2"
+  },
+  "description": ""
+}
